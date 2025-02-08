@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dor351(Dor Yehoshua)
 - 👀 I’m interested in C,C++,Python projects
-- 🌱 I’m currently learning Software Engineer in second year
+- 🌱 I’m currently learning Software Engineer in 4th year
 - 💞️ I’m looking to collaborate on C, C++ and Python projecs
 - 📫 How to reach me: dorye1@ac.sce.ac.il
 
